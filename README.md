@@ -36,7 +36,7 @@ Each MFE can be built, tested, and deployed **independently**, improving team au
 
 ![alt text](image-3.png)
 
-6. For using the micro frontends you have to lazy load them i the main app. 
+6. For using the micro frontends you have to lazy load them in the main app. 
 
 ![alt text](image-4.png)
 
