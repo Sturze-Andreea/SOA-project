@@ -24,7 +24,7 @@ Each MFE can be built, tested, and deployed **independently**, improving team au
 ![alt text](image.png)
 
 2. Now, you have to build the app with whatever components you need.
-3. Make sure to app the routes you need. 
+3. Make sure to have the routes you need. 
 
 ![alt text](image-1.png)
 
